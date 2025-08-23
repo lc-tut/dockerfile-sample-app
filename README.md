@@ -3,7 +3,7 @@
 以下のコマンドでイメージを作成することができる。
 
 ```
-docker build -t myapp:latest -f ./Dockerfile.dev .
+docker build -t myapp:latest -f ./Dockerfile .
 ```
 
 作成したイメージを以下のコマンドで起動
